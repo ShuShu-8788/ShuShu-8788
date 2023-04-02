@@ -25,6 +25,5 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
 
 
-In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I'm always looking for opportunities to learn and grow as a developer.
 
-Full stack web developer by day, cosmic jokester by night. When I'm not coding, you can find me pondering the mysteries of the multiverse and dreaming up new project ideas. And when I need a break from the mind-bending concepts of dark matter and black holes, I like to binge-watch Jojo's Bizarre Adventure. Why did the developer quit his job at NASA? He didn't understand the gravity of the situation. Let's build something amazing together and have some fun along the way!
+In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I'm always looking for opportunities to learn and grow as a developer.
