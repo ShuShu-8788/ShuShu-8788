@@ -12,7 +12,6 @@
 ![NPM](https://img.shields.io/badge/-NPM-323795?style=flat-square&logo=npm&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-323795?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-323795?style=flat-square&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/-React-323795?style=flat-square&logo=react&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-323795?style=flat-square&logo=amazon-aws&logoColor=white)
 
 I have experience in building CRUD applications, integrating authentication and authorization, and using advanced queries and patterns in MongoDB, as well as designing systems and models for scalability and efficiency.
