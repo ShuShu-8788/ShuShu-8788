@@ -17,11 +17,13 @@ I have experience in building CRUD applications, integrating authentication and 
 
 Apart from my tech skills, I have a solid understanding of Data Structures and Algorithms, including Arrays, Strings, Loops, Multidimensional Arrays, Recursion, and various sorting and searching techniques.
 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShuShu-8788&theme=tokyonight-duo)](https://git.io/streak-stats)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShu-8788&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
+
 
 In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I'm always looking for opportunities to learn and grow as a developer.
 
