@@ -26,4 +26,4 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 
 
 
-**In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I'm always looking for opportunities to learn and grow as a developer.
+In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I'm always looking for opportunities to learn and grow as a developer.
