@@ -12,8 +12,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-323795?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-323795?style=flat-square&logo=amazon-aws&logoColor=white)
 
-I have experience in building CRUD applications, integrating authentication and authorization, and using advanced queries and patterns in MongoDB, as well as designing systems and models for scalability and efficiency.
-
+I have experience in building CRUD applications, integrating authentication and authorization, and using advanced queries and patterns in MongoDB,
 Apart from my tech skills, I have a solid understanding of Data Structures and Algorithms, including Arrays, Strings, Loops, Multidimensional Arrays, Recursion, and various sorting and searching techniques.
 
 
