@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">,I'm Shubham Sonawane</h1>
-![Demo](https://storage.qoo-img.com/cimg/note/2022/04/15/33f674fdcfdb2bf77c976e3d9f568b34.gif)
+
 <h1>Tech Stack ⚒️</h1>
 
 ![HTML](https://img.shields.io/badge/-HTML-323795?style=flat-square&logo=html5&logoColor=white)
