@@ -20,4 +20,4 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShu-8788&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=false&theme=tokyonight)
