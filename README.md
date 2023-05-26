@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">,I'm Shubham Sonawane</h1>
-[giorno_giovanna_jojo](https://github.com/ShuShu-8788/ShuShu-8788/assets/111420558/a3acf28f-d1b1-4895-9e3c-861472a17782)
+
 
 <h1>Tech Stack ⚒️</h1>
 
