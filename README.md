@@ -2,7 +2,7 @@
 
 <h1>Tech Stack ⚒️</h1>
 
-![HTML](https://img.shields.io/badge/-HTML-323795?style=flat-square&logo=html5&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-323795?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-323795?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-323795?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323795?style=flat-square&logo=javascript&logoColor=white)
