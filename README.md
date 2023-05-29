@@ -1,8 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">, I'm Shubham Sonawane</h1>
-
-<p align="center">
-  <h3 align="center">And I have a Dream!</h3>
-</p>
+![AchingUnsightlyHarrierhawk-max-1mb](https://github.com/ShuShu-8788/ShuShu-8788/assets/111420558/dc226cb9-54d2-4f09-b35d-09350e5dfbae)
 
 <p align="center">
   <img src="https://media.tenor.com/JTudmgcE8ZIAAAAd/giorno-giovanna-jojo.gif" width="70%" alt="Boy's in Jacket">
