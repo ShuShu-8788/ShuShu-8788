@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Wave">, I'm Shubham Sonawane</h1>
-
+![Profile Views](https://komarev.com/ghpvc/?username=ShuShu-8788&color=blueviolet)
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111420558/241764918-dc226cb9-54d2-4f09-b35d-09350e5dfbae.gif" width="70%" alt="Boy's in Jacket">
 </p>
@@ -24,9 +24,6 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 
 ## Portfolio
 [![Portfolio](https://img.shields.io/badge/-Portfolio-323795?style=flat-square&logo=github&logoColor=white)](https://your-portfolio-link.github.io)
-
-## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ShuShu-8788&color=blueviolet)
 
 ## Resume
 [![Resume](https://img.shields.io/badge/-Resume-323795?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.pdf)
