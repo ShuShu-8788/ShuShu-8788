@@ -39,6 +39,8 @@ Check out my portfolio: [Portfolio Link](https://your-portfolio-link.github.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShuShu-8788&theme=tokyonight-duo)](https://git.io/streak-stats)
 <br><br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShu-8788&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
