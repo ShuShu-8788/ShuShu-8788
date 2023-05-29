@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Wave">, I'm Shubham Sonawane</h1>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ShuShu-8788&color=blueviolet)
+
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111420558/241764918-dc226cb9-54d2-4f09-b35d-09350e5dfbae.gif" width="70%" alt="Boy's in Jacket">
 </p>
