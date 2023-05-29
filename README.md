@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">,I'm Shubham Sonawane</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">, I'm Shubham Sonawane</h1>
 
 <p align="center">
   <h3 align="center">And I have a Dream!</h3>
@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://media.tenor.com/JTudmgcE8ZIAAAAd/giorno-giovanna-jojo.gif" width="70%" alt="Boy's in Jacket">
 </p>
+
 <h1>Tech Stack ⚒️</h1>
 
 ![HTML](https://img.shields.io/badge/-HTML-323795?style=flat-square&logo=html5&logoColor=white)
@@ -19,8 +20,21 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-323795?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-323795?style=flat-square&logo=amazon-aws&logoColor=white)
 
-I have experience in building CRUD applications, integrating authentication and authorization, and using advanced queries and patterns in MongoDB,
+I have experience in building CRUD applications, integrating authentication and authorization, and using advanced queries and patterns in MongoDB.
 Apart from my tech skills, I have a solid understanding of Data Structures and Algorithms, including Arrays, Strings, Loops, Multidimensional Arrays, Recursion, and various sorting and searching techniques.
+
+## GitHub Profile
+- GitHub Username: ShuShu-8788
+- [GitHub Profile](https://github.com/ShuShu-8788)
+
+## LinkedIn
+- [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+
+## Address
+- [Maharashtra India](https://goo.gl/maps/BiDFYJ9WiHKRsSph8?coh=178572&entry=tt)
+
+## Portfolio
+Check out my portfolio: [Portfolio Link](https://your-portfolio-link.github.io)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShuShu-8788&theme=tokyonight-duo)](https://git.io/streak-stats)
