@@ -1,8 +1,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Boy's in Jacket">, I'm Shubham Sonawane</h1>
-![AchingUnsightlyHarrierhawk-max-1mb](https://github.com/ShuShu-8788/ShuShu-8788/assets/111420558/dc226cb9-54d2-4f09-b35d-09350e5dfbae)
 
 <p align="center">
-  <img src="https://media.tenor.com/JTudmgcE8ZIAAAAd/giorno-giovanna-jojo.gif" width="70%" alt="Boy's in Jacket">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111420558/241764918-dc226cb9-54d2-4f09-b35d-09350e5dfbae.gif" width="70%" alt="Boy's in Jacket">
 </p>
 
 <h1>Tech Stack ⚒️</h1>
