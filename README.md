@@ -20,7 +20,7 @@ I have experience in building CRUD applications, integrating authentication and 
 Apart from my tech skills, I have a solid understanding of Data Structures and Algorithms, including Arrays, Strings, Loops, Multidimensional Arrays, Recursion, and various sorting and searching techniques.
 
 ## LinkedIn
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-323795?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://www.linkedin.com/in/shushu8788)
 ## Portfolio
 [![Portfolio](https://img.shields.io/badge/-Portfolio-323795?style=flat-square&logo=github&logoColor=white)](https://your-portfolio-link.github.io)
 
