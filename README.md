@@ -30,8 +30,8 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 ## Resume
 [![Resume](https://img.shields.io/badge/-Resume-323795?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.pdf)
 
-```![GitHub Streak](https://streak-stats.demolab.com/?user=ShuShu-8788&theme=tokyonight-duo)
+```![GitHub Streak](https://streak-stats.demolab.com/?user=ShuShu-8788&theme=tokyonight-duo)```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShu-8788&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
+```![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)```
