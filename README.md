@@ -1,4 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Wave">, I'm Shubham Sonawane</h1>
+![SpaceX Starship approaching Mars from Elon Musk's Starship update 2022_humanMars](https://github.com/user-attachments/assets/8d30f47b-6f66-4730-aa81-392e72c58a9e)
+
+
+
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/benbahrenburg/benbahrenburg/main/assets/wave.gif" width="40" alt="Wave">, I'm Shubham Sonawane</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ShuShu-8788&color=blueviolet)
 
@@ -34,4 +38,4 @@ Apart from my tech skills, I have a solid understanding of Data Structures and A
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShu-8788&layout=compact&theme=tokyonight)
 
-```![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)```
+```![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShuShu-8788&show_icons=true&theme=tokyonight)
